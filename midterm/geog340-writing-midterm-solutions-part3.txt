@@ -127,12 +127,68 @@ Malthusian/geometric growth perspective of population-environment relations?
 
  What are 3 examples of market-based solutions to environmental problems?
 ==================
+// market-based solutions to environmental problems
+1. Green taxes - individual or firms partcipatat in "greener" behavior by avoiding more costly "brown" alternatives,
+			   - market component (incentivized behavior), 
+			   - the Role of the state *sets and collect taxes
+
+2. Cap and trade - Total amount of pollulant or other "bad" is limited and tradable rightsto pollute are distributed to polluters,
+ 				 - market component (rewarding efficiency), 
+ 				 - the Role of the state *set limits and enforces contracts
+
+3. Green Consumption - Individual consumers choose goods or services based on their certified enviromental impacts, typically pating more for benign commodities, 
+					 - market component (willingness to pay), 
+					 - the Role of the state *oversees and authenicates claims of producers and sellers
 
  What are 3 critiques of market environmentalism?
 ==================
+// 3- 4 critiques of market environmentalism
+1. Non-Market Values:
+– Should everything be in a market?
+– Conflicts between Anthropocentric vs. Ecocentric perspectives – Intrinsic (non-market) values of nature needs to pay attention to
+– Addressing environmental disaster issues, quick actions to avert.
+
+2. Money and Nature
+– A market or commodity approach to the environment is based on the exchange of discrete and specific items or services
+– But, in the real world, ecosystems are very complex and ecological functions are connected and interdependent
+
+3. Equity and Rights:
+– Economic injustice -> Environmental injustice
+• **“A market system gives power to those most able to pay”** (Beder 1996, pg. 61)
+– It is not possible to include everyone who might be affected by environmental problems.
+– Getting connected hundreds,thousands,or billions of people to negotiate. (difficult)
+– Future generations cannot be involved in bargaining (not born yet)
+– Marginalized people are routinely excluded from decisions that affect them
+
+4. Assumes Humans will act Rationally to Changes
+— “[In a Market Response Model] price signals are translated into adaptations
+by rational and creative people in the market, providing abundance under conditions of scarcity.”
+— Do we behave rationally as consumers? Need to find ways to behave rationally as consumers.
+— Are we marketed to as rational consumers? Marketing to projected audience, rational consumers.
 
  What are the 2 contradictions of capitalism from the political economy perspective?
 ==================
+// Two contraditions:
+1. The first contradiction of capitalism:
+– Over-Accumulation – wealth is concentrated in the hands of a few, so many cannot afford to buy commodities and keep the system expanding
+
+2. The second contradiction of capitalism:
+– capitalism undermines itself by destroying the conditions
+necessary for its own survival through:
+• ***Environmental degradation*** and ***worker exploitation*** –
+harms the [conditions of production] and worker health
+• Over-extraction of resources – produces scarcity that limits
+growth
 
  How do neoliberal principles shift how the environment is perceived and managed?
 ==================
+// (guess)
+def: Neoliberalism or neo-liberalism is the 20th-century resurgence of 19th-century ideas associated with laissez-faire economic liberalism and free market capitalism. 
+
+- The insights of Karl Marx can be used to describe how capitalist economic systems produce environmental problems.
+
+-Fiduciary Duty: an obligation to act in the best interest of another party. In terms of Capitalism: a corporation's board member has a fiduciary duty to the shareholder
+
+- evolution, to A modified form of liberalism tending to favor free- market capitalism. (neoliberalism)
+
+Example: the blackstone and the amazon, "land grabbers" in Brazil., notredame vs the amazon
