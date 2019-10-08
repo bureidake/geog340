@@ -1,0 +1,138 @@
+These are possible solutions. Please do not plagerise my solutions. These solutions might be incorrect.
+
+											Key Concept Questions
+
+ What are (at least) three ways the Land Ethic shifts previous thought about human- environment interaction?
+==================
+//
+1. “Enlarges the boundaries of the community to include soils, waters, plants, and animals, or collectively: the land” (Leopold 1949, p. 239)
+2. Extends social consciousness from people to the land
+3. Changes man’s role from conqueror to citizen of the
+ecological community
+4. Shifts the basis for our relationship with the land/environment from economic self-interest to ethical obligation
+
+
+
+ How is the concept of “community” central to Leopold’s development of the land ethic?
+==================
+//An interaction with nature ‘is right when it tends to preserve the integrity, stability, and beauty of the biotic community’ and ‘is wrong when it tends otherwise
+
+//Leopold also talks about ethics between people and their communities, citing the examples of the Golden Rule (do unto others as you would do unto yourself) and the concept of democracy as foundations that inform our societal code of conduct. The land ethic, Leopold argues, is the missing piece in what he calls the ethical sequence.
+
+
+ How can we balance economic profit and environmental protection? Examples?
+==================
+
+
+ What are ways in which contemporary society displays a Land Ethic? What are ways in which it fails to do so?
+==================
+
+
+ What are two founding beliefs about nature in Western philosophy?
+==================
+//
+1. Humans are separate and superior to nature (Biblical Tradition) 
+2. Nature only has value as it is useful to humans (John Locke)
+
+
+ What are three competing theories of the relationship between population growth and environmental change?
+==================
+//
+1. Geometric Population Growth (Malthusian) Theory
+2. IPAT (Neo-Malthusian) Theory (Population, Development, and Environmental Impact )
+3. Population & Innovation (Cornucopian) Theory
+
+
+//Perspective 1: “Geometric” Growth ///////////////
+
+Thomas Malthus argued that:
+• •
+Population grows exponentially – 2,4,8,16,32
+But,resources grow linearly – 2,4,6,8,10
+Thomas Malthus (1766-1834)
+
+Therefore, population will outgrow food supply
+Following this perspective, disease, famine, and war are natural corrections to slow down rapid population growth
+
+	Population, Violence, and Injustice
+Malthus called for greater restraints on women, but it has been shown that expanding women’s rights (ex. education, reproductive choices) actually slows population growth
+Malthusian thinking has led to population control efforts that target the poorest and most marginal populations, even though the poorest are often not the primary cause of degradation
+	– Example: India’s forced sterilization program
+		Targeting the poor and women diverts attention away from systemic causes of degradation
+	– Ex: wildly uneven levels of consumption!
+
+///////////////////////////////////////////
+
+// Perspective 2: Population, Development, and Environmental Impact
+	(IPAT (Neo-Malthusian) Theory)
+
+•• Neo-Malthusians maintain that population is the factor that has the greatest impact on the environment, but that the effects of population are mediated by differences in lifestyle
+
+Ehrlich and Holdren (1974) tried to account for
+these differences with the I=PAT equation
+	• I = impact on the environment
+	• P = population(often density)
+	• A = affluence (GDP or GNP per capita)
+– Wealthier people tend to consume more resources
+	• T = technology (energy consumption per capita)
+– Technology can either reduce environmental impacts (Ehrlich and Holdren, 1974) or increase them (Commoner, 1988)
+
+•• Ecological footprint – the theoretical spatial extent of the earth’s surface required to sustain an individual, group, system, or organization
+
+
+Carrying capacity is the population of human or non-human organisms that could be sustained in an area over time
+	– Depends on the amount of consumption of the organisms (lifestyle, for humans)
+	– Determined in part by the ecological footprint of the organisms
+
+	Critiques of Carrying Capacity
+May be used to justify racist or xenophobic policies, such as refusing to accept migrants and refugees (ex. Australia)
+	– The discourse of “carrying capacity” makes it seem as though there is a “natural” limit on how many people can be supported by a country, rather than a serious look at the consumption patterns of over-consumers
+
+// Perspective 3: Population and Innovation ///////////////
+“Cornucopian” population theorists see population as a resource rather than a problem (e.g., Ester Boserup, 1965)
+	– When resources are scarce, people will innovate
+	– More people means more brains and hands working to
+solve problems
+	– Example: Induced intensification of agriculture, such as the techniques invented during the Green Revolution, led to greater crop yields
+
+Critiques of Cornucopian thinking: 
+Ex: Costs of the Green Revolution
+
+ Ignores the scale of processes such as food production
+	– Different impacts on local communities compared to distant markets
+	• Some innovations increased agricultural food supply but damaged other ecosystems (especially aquatic ones)
+	• More food may be produced than is needed, but it is not distributed evenly
+
+///////////////
+
+ How does the Neo-Malthusian/IPAT perspective differ from the original
+Malthusian/geometric growth perspective of population-environment relations?
+==================
+// Neo-Malthusians maintain that population is the factor that has the greatest impact on the environment, but that the effects of population are mediated by differences in lifestyle.
+- Introduction of, I=PAT and applications of I=PAT such as the Ecological footprint.
+- Malthusian perspective emphasises that the population is the major factor impacting the environment.
+
+
+ What are principles of successful management of the commons?
+==================
+// Collective Action
+- Individuals have incentives to participate in collective ownership if they have the ability to negotiate the rules
+- Successful commons management includes:
+	• Clearly defined boundaries
+	• Costs of managing should match benefits gained (proportionality) • Rules are made collectively by users (collective choice)
+	• Monitoring systems are in place
+	• Sanctions must be in place to punish violators
+	• Conflict resolution mechanisms must exist
+	• The system must have autonomy (local, self-governance)
+
+ What are 3 examples of market-based solutions to environmental problems?
+==================
+
+ What are 3 critiques of market environmentalism?
+==================
+
+ What are the 2 contradictions of capitalism from the political economy perspective?
+==================
+
+ How do neoliberal principles shift how the environment is perceived and managed?
+==================
