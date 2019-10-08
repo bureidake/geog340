@@ -2,55 +2,260 @@ Topics for Multiple Choice & Matching Questions:
 
 Key Concepts
  Environmental Ideologies
+◦ (relation) These are examples of ethics that are anthropocentric, or human- centered.
+
  The Land Ethic
+◦ The land ethic is based on:
+◦ the field of ecology, the study of the interactions between organisms and their environment
+◦ Moral extensionism – the expansion of ethics beyond humans to land, plants, animals, etc.
+◦ Placing humans as part of the environment, rather than separate from it ◦ Ecocentric VS Anthopocentric
+
  Moral Extensionism
+◦ the expansion of ethics beyond humans to land, plants, animals, etc.
+
  Environmental Ethics positions: Ecocentric, Anthropocentric, Utilitarian, Intrinsic Value
+◦ Ecocentric - Ecocentrism is a term used in ecological political philosophy to denote a nature-centered, as opposed to human-centered, system of values.
+◦ Anthropocentric - Anthropocentrism is the belief that human beings are the most important entity in the universe.
+◦ Utilitarian - Utilitarianism is a family of consequentialist ethical theories that promotes actions that maximize happiness and well-being for the majority of a population
+◦ Intrinsic Value - (in environment) Valuable in itself 
+
  Sustainability & Sustainable Management
+◦ (google) Sustainability is the ability to exist constantly. In the 21st century, it refers generally to the capacity for the biosphere and human civilization to coexist
+◦ (google)Sustainable management takes the concepts from sustainability and synthesizes them with the concepts of management.
+
  Preservation vs. Conservation
+◦ Preservation, on the other hand, means maintaining the present state of something. Preservation of natural resources is mainly focused on resources that have not been touched by humans
+◦ Conservation is the sustainable use of natural resources. Our natural resources include wildlife, air, water, and what we get from earth.
+
  Dominion Thesis
+◦ “Be fruitful and multiply, and replenish the Earth, and subdue it; have dominion over the fish of the Sea, and over the fowl of the air, and over every living thing that moves upon the Earth”
+(Old Testament, Genesis, 1:28)
+
+Does this mean humans should control nature and use it how they wish?
+	OR
+Do humans have a responsibility to stewardship over nature and to care for the environment?
+
  Environmental Justice
+◦ describes a condition where unhealthful or dangerous conditions are disproportionately proximate to minority communities.”
+
  Climate Justice
+◦ (google) Climate justice is a term used for framing global warming as an ethical and political issue, rather than one that is purely environmental or physical in nature
+
  Environmental Racism
+◦ “the idea that nonwhites are disproportionately exposed to pollution” (Pulido 2000, p. 12)
+
  White Privilege
+◦ “the privileges and benefits that accrue to white people by virtue of their whiteness” (no malicious intent is necessary) (Pulido 2000, p. 13)
+
+
  Geometric growth/Malthusian perspective
+◦ Population grows exponentially – 2,4,8,16,32
+◦ But,resources grow linearly – 2,4,6,8,10
+◦ Therefore, population will outgrow food supply
+◦ Following this perspective, disease, famine, and war are natural corrections to slow down rapid population growth
+
+◦ Malthus called for greater restraints on women, but it has been shown that expanding women’s rights (ex. education, reproductive choices) actually slows population growth
+◦ Malthusian thinking has led to population control efforts that target the poorest and most marginal populations, even though the poorest are often not the primary cause of degradation
+	– Example: India’s forced sterilization program
+◦ Targeting the poor and women diverts attention away from systemic causes of degradation
+	– Ex: wildly uneven levels of consumption!
+
  IPAT Equation/ Neo-Malthusian perspective
+◦ Ehrlich and Holdren (1974) tried to account for
+these differences with the I=PAT equation
+◦ I = impact on the environment
+◦ P=population(oftendensity)
+◦ A = affluence (GDP or GNP per capita)
+	– Wealthier people tend to consume more resources
+◦ T = technology (energy consumption per capita)
+	– Technology can either reduce environmental impacts (Ehrlich and Holdren, 1974) or increase them (Commoner, 1988)
+◦ Maintain that population is the factor that has the greatest impact on the environment, but that the effects of population are mediated by differences in lifestyle
+
+
  Cornucopian Perspective
+◦ “Cornucopian” population theorists see population as a resource rather than a problem (e.g., Ester Boserup, 1965)
+When resources are scarce, people will innovate
+– More people means more brains and hands working to
+solve problems
+– Example: Induced intensification of agriculture, such as the techniques invented during the Green Revolution, led to greater crop yields
+
  Ecological Footprint
+◦  the theoretical spatial extent of the earth’s surface required to sustain an individual, group, system, or organization
+
  Carrying Capacity
+◦  is the population of human or non-human organisms that could be sustained in an area over time
+
  Institutions
+◦ “Rules and norms governing collective action, especially referring to rules governing common property environmental resources, like rivers, oceans, grasslands, forests, and the atmosphere.” (Robbins et al. 2014, pg. 55)
+
  Common Property
+◦ A good or resource whose characteristics make it difficult to fully enclose and partition, making it possible for non-owners to enjoy resource benefits and owners to sustain costs from the actions of others, typically necessitating some form of creative institutional management” (Robbins et al. 2014, pg. 55)
+
  The Tragedy of the Commons
+◦ Garrett Hardin theorized the “tragedy of the commons” as a particular type of prisoner’s dilemma
+◦ The pasture example:
+– Everyone has access to a commonly held pasture
+– No rules exist about sustainable numbers for grazing
+– Each herder benefits more from adding more animals than they lose from overgrazing
+– The result: the pasture is overgrazed
+But, are all commons “free” with no rules??
+◦ Research shows the answer is often: NO
+
  Collective Management
+◦ (collective action)
+◦ Individuals have incentives to participate in collective ownership if they have the ability to negotiate the rules
+Successful commons management includes:
+• Clearly defined boundaries
+• Costs of managing should match benefits gained (proportionality) • Rules are made collectively by users (collective choice)
+• Monitoring systems are in place
+• Sanctions must be in place to punish violators
+• Conflict resolution mechanisms must exist
+• The system must have autonomy (local, self-governance)
+
  Market Environmentalism
+◦  the popular idea that environmental problems can be solved by the (free) market economy
+
  Commodity
+◦ A basic good used in trade/commerce that is interchangeable with other goods of the same type or exchangeable for a monetary price ($$).
+
  The Coase Theorem
+◦ If property rights are clearly defined and people bargain without cost, externalities (ex. pollution) can be most efficiently controlled through contracts between private property owners
+		Important Assumptions:
+– All parties must have ability to make decisions & control resources (clearly-defined property rights)
+– Enforcement of contracts, paperwork, regulation, and administration must have no cost
+
  Market Failure
+◦ A situation where the production or exchange of a good or service is not efficient (often caused by a mismatch between real world conditions and market assumptions)
+1.) Transactions are not, by any means, free
+2.) Contracts and property rights have to be defined and enforced often at great legal and regulatory expense
+3.) Not all parties to negotiations have perfect or equal info
+
  Externalities
+◦  Costs or benefits that are not figured into the price of goods or services
+– Cost example: Pollution is not counted in product cost – Benefit example: Intercropping preserves bird habitat
+
  Transaction Costs
+◦ Costs associated with making an exchange and ensuring enforcement of rules and regulations
+– Ex: Lawyers, regulators, police, courthouses, peoples’ time
+
  Cap and Trade
+◦ Total amount of pollulant or other "bad" is limited and tradable rightsto pollute are distributed to polluters,
+◦ market component (rewarding efficiency), 
+◦ the Role of the state *set limits and enforces contracts
+◦ Wetland banks
+
+Note: Ecosystem: has strong interactions among its components and weak interactions across its boundaries
  Ecosystem Services
+◦ the benefits people obtain from ecosystems
+
  Marxism and Marxist Critiques
+◦ The insights of Karl Marx can be used to describe how capitalist economic systems produce environmental problems
+◦ From a political economy perspective, environmental problems are an integral part of a capitalist economy (not an aberration/accident)
+
  Means of Production
+◦ things required to make commodities
+– e.g., factories, machinery
+
  Conditions of Production
+◦ raw materials needed to produced commodities
+- e.g., wood, oil, iron
+
+
  Surplus Value
+◦ the value produced by underpaying labor or over- extracting from the environment, which is accumulated by owners and investors (not by workers) (THINK: profit)
+
  Relations of Production
+◦ The social relations associated with a specific economic system
+
  Overaccumulation
+◦  wealth is concentrated in the hands of a few, so many cannot afford to buy commodities and keep the system expanding
+
  Uneven Development
+◦ (guess) Environmental degradation and worker exploitation –
+harms the conditions of production and worker health 
+◦ (rich north poor south)
+
  Neoliberalism
- Fiduciary Duty
- 
+◦ A modified form of liberalism tending to favor free- market capitalism.
+
+ Fiduciary Duty 
+◦ an obligation to act in the best interest of another party. 
+
+Note: "Anthropocentrism is the belief that human beings are the most important entity in the universe."
+"Environmentalism or environmental rights is a broad philosophy, ideology, and social movement regarding concerns for environmental protection and improvement of the health of the environment, particularly as the measure for this health seeks to incorporate the impact of changes to the environment on humans, animals, plants and non-living matter"
+
 Key Thinkers
  Walt Whitman
- Henry David Thoreau
- John Muir
- Robinson Jeffers
- Aldo Leopold
- John Locke
- Gifford Pinchot 
- Thomas Malthus 
- Garrett Hardin
- Ronald Coase
- Karl Marx
- Elinor Ostrom
+◦ Leaves of Grass, Nature Poet
+◦ Enviromentalism
+◦ Equality
 
+ Henry David Thoreau
+◦ Transcendentalism & Romanticism
+◦ Naturalist 
+◦ (unlisted) "Civil Disobedience", an argument for disobedience to an unjust state.
+
+ John Muir
+◦ Preservationist, Ecocentric, Intangible/Intrinsic value of nature
+◦ "Father of the National Parks”
+◦ Preservationist (Vs. Conservationist)
+◦ Naturalist & Writer
+◦ Founded The Sierra Club, Yosemite National Park
+
+ Robinson Jeffers
+◦ “We have no land ethic yet, but we have at least drawn nearer the point of admitting that birds [or other parts of the natural world] should continue as a matter of biotic right, regardless of the presence or absence of economic advantage to us.” 
+◦ (Anti)Modernist
+◦ Environmentalist
+
+ Aldo Leopold
+◦ “The individual is a member of a community of interdependent parts”
+Aldo Leopold and “The Land Ethic” The land ethic is based on:
+◦ the field of ecology, the study of the interactions between organisms and their environment
+◦ Moral extensionism – the expansion of ethics beyond humans to land, plants, animals, etc.
+◦ Placing humans as part of the environment, rather than separate from it ◦ Ecocentric VS Anthopocentric
+
+ John Locke
+◦ Nature only has value if it is useful to humans
+Locke’s philosophy is: anthropocentric & utilitarian
+
+ Gifford Pinchot 
+◦ Utilitarian, Conservationist, Anthropocentric
+◦ Equality
+
+Gifford Pinchot vs. John Muir
+ Yosemite, California
+[P]◦ Resources can be used as long as they are used sustainably
+[P]◦ Best thing is to do the greatest good for the greatest number of people
+[M]◦ Nature should be left alone as much as possible
+[M]◦ Wilderness areas that have had little human impact should be protected
+
+ Thomas Malthus 
+◦ Population grows exponentially, resources grow linearly
+◦ Population is the factor that has the greatest impact on the environment
+◦ Therefore, population will outgrow food supply, Following this perspective, disease, famine, and war are natural corrections to slow down rapid population growth
+
+ Garrett Hardin
+◦ The Prisoner’s Dilemma
+A theoretical game in which a particular action would benefit all, but individuals behaving selfishly will create a situation that is not optimal for everyone.
+◦ Garrett Hardin theorized the “tragedy of the commons” as a particular type of prisoner’s dilemma
+◦ But, are all commons “free” with no rules??
+
+ Ronald Coase
+◦ Coase Theorem
+◦ If property rights are clearly defined and people bargain without cost, externalities (ex. pollution) can be most efficiently controlled through contracts between private property owners
+
+ Karl Marx
+◦ From a political economy perspective, environmental problems are an integral part of a capitalist economy (not an aberration/accident)
+◦ The insights of Karl Marx can be used to describe how capitalist economic systems produce environmental problems
+
+ Elinor Ostrom
+◦ Individuals have incentives to participate in collective
+ownership if they have the ability to negotiate the rules
+◦ Successful commons management includes:
+	• Clearly defined boundaries
+	• Costs of managing should match benefits gained (proportionality) • Rules are made collectively by users (collective choice)
+	• Monitoring systems are in place
+	• Sanctions must be in place to punish violators
+	• Conflict resolution mechanisms must exist
+	• The system must have autonomy (local, self-governance)
 
