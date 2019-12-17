@@ -1,0 +1,736 @@
+GEOG 340: Environmental Geography
+Final Exam Study Guide
+===============================================================================
+
+Important Exam Information:
+Final Exam Date: Tuesday, December 17 th (2:45pm-4:45pm)
+Final Exam Points: 100 points (20% of total course grade)
+What Does the Midterm Cover?
+ All In-Class Lectures, and Discussion Activities (all .ppt slides are posted on
+BeachBoard)
+ All Assigned Readings
+ Roughly half of the exam will be pulled from midterm materials and half will be on
+materials, readings, and concepts covered post midterm (including data collection
+methods & exercises).
+What to Bring?
+ You need only to bring a PEN or PENCIL to write with.
+ I will provide all the paper necessary for the Final exam, no essay booklets needed
+ The Midterm is a closed book exam (no notes allowed, no phones, tablets, or
+computers)
+
+Final Exam Study Guide:
+Real World Themes/Cases
+
+===============================================================================
+ Lawns
+• Turfgrass lawns are a million dollar business
+• Grass is natural, but perfect turfgrass lawns require
+mechanical equipment and chemicals that are toxic to
+humans, pets, and ecosystems
+
+• Turf grass was domesticated for livestock grazing, so they do
+better when clipped frequently (ie. mowed)
+• Turf grass seeds were brought to the Americas as part of the
+Columbian exchange
+• The modern lawn emerged after World War II
+	– Automobiles contributed to the growth of suburbs, where
+	people have more lawn space
+	– Chemical inputs became widely available to the public
+
+@The Chemical Revolution
+• Early lawn chemicals were crude and dangerous
+• DDT replaced early chemicals – seemed safer (DDT are insectides)
+	– DDT was banned in 1972 because it is so toxic for
+	marine and avian species
+• Subsequent chemicals are also known to be toxic
+for humans and ecosystems
+• Nutrients from fertilizers cause eutrophication
+	– Algae consume the nutrients and greatly increase in
+	number (algal blooms), leading to deoxygenated water
+and ecosystem collapse
+• Chemical inputs are necessary when lawns are
+monoculture (a single cultivated species)
+	– Agrodiversity can help replenish nutrients or fill in the
+	gaps if one species does not thrive
+
+@The Explosion of Lawns
+• Lawns cover a large portion of
+the U.S. and are increasingly
+common around the world
+	– Lawns are the largest irrigated crop in
+	the U.S.
+• Negative impacts:
+	– Toxins and costs of chemicals (fertilizer)
+	– Demand for fresh water (irrigation)
+• Positive impacts:
+	– Absorption of carbon dioxide from the
+	atmosphere (carbon sink)
+	– Reduced urban heat island effect
+
+@Risk and Chemical Decision-Making
+• Why do people continue practices of lawn care that are known to
+be harmful to human and environmental health?
+• If keeping perfect monoculture lawns is known to be a hazard,
+people must be calculating risks associated with lawn care activities
+• Risk perception may be impeded by lack of information or risk
+perception biases
+• A national survey suggests that people who use chemicals are more
+aware of the dangers than people who do not
+	– More information will not change the behavior
+
+@What Influences Lawn Decisions?
+• Well-maintained lawns are a sign of status, responsibility,
+and good citizenship
+• People keep good lawns for the social benefits – they do not
+want to let their neighbors down
+– But doesn’t using chemicals that are harmful to humans, pets, and the
+environment hurt neighbors
+-Social Pressures
+
+ Hazards & Natural Disasters
+@Important Definitions
+• Hazard – a thing, a condition, or a process that
+threatens individuals and society in terms of
+production (making a living) or reproduction (being
+alive)
+• Risk – the known ( or estimated) probability that a
+hazard-related decision will have a negative
+consequence
+• Vulnerability = the capacity to be harmed, based on
+exposure to a hazard and sensitivity level
+• Adaptation = Actions taken to adjust to risks or
+hazards to lessen the impact
+• Maladaptation = potential for adaptation measures
+to unexpectedly/inadvertently increase vulnerability
+• Adaptive Capacity = the ability of a group to prepare
+for risks and cope with hazards when they do occur
+
+@Cultural theory of Risk
+• Preferred risk management strategies depend
+on views of the environment
+	– Mary Douglas’s “cultural perspectives of risk”
+	Approach View of nature
+--------------------------------------------------------------------------
+	Approach		| View of nature	| Action
+--------------------------------------------------------------------------
+	Trial and error 	| Nature is resilient,	| Experiment,
+				|  disturbances are	|  continue until
+							  proven harmful
+				  temporary
+--------------------------------------------------------------------------
+	Precautionary principle | Nature is fragile,	| Exercise caution
+				|			|  until proven safe
+				  disturbances may
+				  be permanently
+				  damaging
+--------------------------------------------------------------------------
+
+@Role of Uncertainty
+• Uncertainty – the degree to which the outcomes of a
+decision or situation are unknown
+• 3 conditions of knowledge:
+	– Know what you know (known knowns)
+	– Know what you don’t know (known unknowns)
+	– Don’t know what you don’t know (unknown
+	unknowns)
+How do we make decisions
+when there is so much
+uncertainty?
+
+@Unknown Unknowns
+• Highly complex behavior of environmental and technological
+systems
+• First encounters with new hazards
+• The more we advance technologically, the more uncertain
+risks become
+	– Ulrich Beck’s theory
+	of the “Risk Society”
+
+@Risk is augmented by a number of
+factors, including:
+•  “physical” = living in a hazardous area
+•  “personal” = your age/gender/education/race
+influences your risk
+•  “economic” = poverty reduces your options
+•  “structural” = poor quality buildings and lifelines
+•  “political” = limited access to information and/or
+resources
+•  “institutional” - your local, state or national
+government does not enforce regulations
+
+@What does this mean in terms of
+environmental justice?
+- Risk is at the intersection of complex,
+interrelated social processes
+- In order to understand risk and the natural
+hazards, we also need to understand the
+social and political systems that govern
+peoples lives
+- Once again, science and the humanities are
+inextricable
+
+Disasters Through the Lens of Disparities: Elevate Community Resilience
+as an Essential Public Health Service
+-- Maureen Lichtveld (Video of Puerto Rico no water, electricity)
+
+ E-Waste
+@E-Waste
+Definition: “End-of-life electronic products including
+computers, printers, photocopy machines, television sets,
+mobile phones, and toys, which are made of sophisticated
+blends of plastics, metals, among other materials"
+
+@E-Waste Disposal
+-Lagos, Nigeria, China..
+-“Only 25% of all e-waste is accounted for and
+recycled safely by official means, the
+remaining 75% is lost in the illegal e-waste
+stream” (Orlins et al, 71).
+
+
+@Unsustainable Systems – The Production of E-Waste
+Story of Stuff Video Link: https://www.youtube.com/watch?v=sW_7i6T_H78
+While watching, look out for the concepts:
+• Unsustainable materials economy
+• Designed for the Dump
+• Externalities
+• Planned Obsolescence
+
+ Urbanization & Eco Gentrification
+@Urbanization
+• Population growth is lower
+• Infant mortality is lower
+• Education is higher
+• Urban penalty – people died
+faster in cities
+• No longer true, but what
+could cause this to emerge
+again?
+• Water is more accessible
+• Sanitation is improved
+• More people have access to
+electricity
+
+@Second nature
+• The adaptation of nature to
+human needs – second
+nature
+• A city – a physical and
+social mechanism to acquire
+& deliver ecosystem services
+to a concentrated human
+population
+• Physical = infrastructure
+• Social = markets,
+government & community
+organizations
+• *Still relies on First Nature*
+
+@Why is urbanization a grand challenge?
+• Capital intensive infrastructure needed
+• Challenge of building infrastructure after the fact
+• Poor cities lack planning and capital; maintenance a
+challenge
+• Institutional and financial barriers
+• Growing cities replace one landscape, largely natural
+in its functions, with one in which humans dominate
+• Poor planning – even in richer areas
+
+@Jacob Riis (1849 – 1914)
+• Journalist (“Muckraker”)
+• Social Documentary Photographer
+• How the Other Half Lives (1890)
+
+Read up @Richard Hugo &
+Philipsburg, MT
+Degrees of Gray in Philipsburg (1984)
+You might come here Sunday on a whim.
+Say your life broke down. The last good kiss
+you had was years ago. You walk these streets
+laid out by the insane, past hotels
+that didn’t last, bars that did, the tortured try
+of local drivers to accelerate their lives.
+Only churches are kept up. The jail
+turned 70 this year. The only prisoner
+is always in, not knowing what he’s done.
+The principal supporting business now
+is rage. Hatred of the various grays
+the mountain sends, hatred of the mill,
+The Silver Bill repeal, the best liked girls
+who leave each year for Butte. One good
+restaurant and bars can’t wipe the boredom out.
+The 1907 boom, eight going silver mines,
+a dance floor built on springs—
+all memory resolves itself in gaze,
+in panoramic green you know the cattle eat
+or two stacks high above the town,
+two dead kilns, the huge mill in collapse
+for fifty years that won’t fall finally down.
+Isn’t this your life? That ancient kiss
+still burning out your eyes? Isn’t this defeat
+so accurate, the church bell simply seems
+a pure announcement: ring and no one
+comes?
+Don’t empty houses ring? Are magnesium
+and scorn sufficient to support a town,
+not just Philipsburg, but towns
+of towering blondes, good jazz and booze
+the world will never let you have
+until the town you came from dies inside?
+Say no to yourself. The old man, twenty
+when the jail was built, still laughs
+although his lips collapse. Someday soon,
+he says, I’ll go to sleep and not wake up.
+You tell him no. You’re talking to yourself.
+The car that brought you here still runs.
+The money you buy lunch with,
+no matter where it’s mined, is silver
+and the girl who serves your food
+is slender and her red hair lights the wall.
+
+@Skid Row, Los Angeles
+“Rats are likely contributing to a typhus outbreak on Los Angeles' skid
+row, experts say, prompting the city and county to take steps to reduce
+the spread of diseases.” - Mark Ralston / AFP - Getty Images file
+
+ Environmental Policy
+@Legitimate coercion
+• Heart of democracy
+• How we manage our resources, manage the commons,
+and pass laws
+• Environmental problems are usually approached
+through the political system, and this is what is
+assumed in classical environmentalism
+
+Neoliberalism: A modified form of liberalism tending to favor free-market
+capitalism.
+Fiduciary Duty: an obligation to act in the best interest of another
+party.
+In terms of Capitalism: a corporation's board member has a fiduciary
+duty to the shareholders
+“Despite the fact that almost half of all households owned stock
+shares either directly or indirectly through mutual funds, trusts,
+or various pension accounts, the richest 10% of households
+controlled 84% of the total value of these stocks in 2016.”
+
+Citation: Edward N Wolff, “Household Wealth
+Trends in the United States, 1962 to 2016: Has
+Middle Class Wealth Recovered?”
+
+This is an environmental geography class, why should we care if
+capitalism is antidemocratic?
+Who gets a say over how we treat the environment?
+In a democracy, you should. We all, collectively, have a say.
+Who gets a say in how a private enterprise operates?
+The bosses, board members, major shareholders.
+So, what happens when the interests of private capital dominate
+political systems?
+-Who sets the boundaries of what we get to critique in society?
+-What type of critiques get taken seriously? What type of critiques are not
+allowed?
+
+@Environmental politics
+Who makes the laws?
+Who is influencing the
+decision-making?
+
+@Special interest groups
+& Balance
+• Concentrated or special
+interests – fewer members,
+greater ease of
+communication, direct
+financial interest in
+governmental action, focused
+issue
+• Diffuse interests – shared by
+wide range of citizens,
+nonfinancial benefits, so less potically attentive
+
+@what’s the force that holds
+powerful interests accountable?
+Journalism & Media
+“It’s not a dishonor to me—I think it’s a great honor to me—that I’ve
+never been invited to the White House for dinner, and I don’t want to go
+to the correspondents dinner—the Gridiron Club. It’s not our job; our
+job is to be a pain-in-the-ass to these guys.” –Seymour Hersh
+Why does this matter...
+
+@Dissemination of Information &
+understanding reality
+• What is the reality? What counts as real? What do we focus on?
+• The role of science – Objectively attempt to understand and
+quantify the processes and nature of reality.
+• The role of the arts – Subjectively seeks to understand and show
+us the experience and lived conditions of (a) reality.
+• The role of journalism/media – Objectively report the reality of
+events & subjectively contextualize that reality within a larger
+framework.
+• How are these all working right now who influences each of
+them?
+• Rise of alternative media
+
+@How is mainstream media doing
+on environmental issues?
+Broadcast TV news coverage of climate change dropped 45% from 2017-2019 
+.. .. 
+
+.. ..
+
+@Fossil fuel spend $3 tril
+$500 Billion globally on pre-tax oil subsidies
+• Think about externalities
+• Very hard to estimate
+• Rough idea of how our current system supports
+fossil fuel consumption
+
+@What’s the state of modern
+environmental Politics?
+The science is clear; sweeping and drastic
+changes need to be made very quickly if we
+hope to keep the planet habitable.
+So, the question is:
+How seriously is the federal government
+responding to this crisis?
+Is climate change legislation simply a
+partisan issue?
+
+@We had 8 years of a democratic
+administration though
+• Why aren’t our climate problems solved
+already????
+• What is the reality of environmental
+politics?(pic)
+
+ Plastic & Global Pollution
+@Environmental Damage
+“Micro” Problems:
+- Photodegradation: process by which a substance is
+broken down by exposure to light.
+- Microplastics - piece of plastic between 0.3 and 5
+millimeters in diameter.
+- Chemical leaching: BPA (bisphenol A) - toxic
+- Absorption: PCB (polychlorinated biphenal)
+carcinogenic; heavy metals
+
+@The (Marine) Food Web
+• Plastic blocks sunlight, killing off plankton
+and algae
+•Fish and sea turtle populations decrease
+• Shark, whale, tuna decrease
+• Bird populations decrease (seagulls,
+albatross, eagle)
+• Loss of lower levels of the food web
+impact apex predators
+• “When we try to pick out anything by
+itself, we find it hitched to everything else
+in the Universe”
+• What other impacts can you think of ?
+• Does this have to be linear?
+
+@Where is it coming from?
+• Point Source Pollution - any discernible, confined and
+discrete conveyance from which pollutants are or may
+be discharged (Ex: Pipe dumping oil into a waterway)
+• Nonpoint Source - any source of water pollution that
+does not meet the legal definition of "point source“ (oil
+runoff from pavement that enters a waterway).
+• What difference does it make?
+
+@Where is it coming from?
+Largest Ethylene producers :
+United States – 31,166.8 Thousand tons
+Saudi Arabia – 13,392.2 Thousand tons
+
+@How did we get here
+1945 - World War II ends
+- 1955 - “Throwaway Living”
+- What do we call this?
+- Who Benefitted?
+- Who Lost?
+- 2018 Coca-Cola produces 128 Billion
+bottles
+- Net profit: $8.2 Billion
+
+@Waterway Degradation
+• Riparian Corridor – Typically vegetated area of floodplain near
+a given waterway.
+• Turbidity - a measure of the degree to which the water loses its
+transparency due to the presence of suspended particulates
+• Eutrophication - excessive richness of nutrients in a lake or
+other body of water, frequently due to runoff from the land,
+which causes a dense growth of plant life and death of animal
+life from lack of oxygen.
+
+@Pasig River, Philippines
+Watershed- the area of land where all of
+the water that falls within it and drains
+off of it, goes to a common outlet.
+1990 - Declared Biologically Dead (no longer able to support aquatic life)
+
+@Thames River, London
+- 1957 Declared Biologically Dead
+- In 1959, a member of the House of Lords was reported as suggesting that purifying
+the river was unnecessary. He claimed that “rivers” were "natural channels for the
+disposal of waste," and that letting them break up organic waste gave them "something
+to do.”
+
+@Is Plastic All bad?
+• Medical uses
+• Makes cars and planes lighter (wastes less fuel)
+• Makes wind shields safer
+• Keeps food fresher for longer (good or bad?)
+
+@How do we go Forward?
+• Recycle
+• Reduce
+• Reuse
+• Refuse?
+• Scientific solutions
+• Societal solutions
+
+ Agriculture
+ Geoengineering
+@Definition: The deliberate large-scale manipulation of
+an environmental process that affects the earth's
+climate, in an attempt to counteract the effects of
+global warming.
+– Use technology to manipulate the environment
+Environmental Geography Methods
+
+@Cloud Seeding
+• A form of weather modification, a way of increasing
+precipitation, by dispersing substances into the air that serve
+as cloud condensation nuclei
+– Idea: More clouds  More rain
+– Usually the substance silver iodide is used
+– Regional scale
+– Uneven evidence of if/how effective
+cloud seeding
+
+@Cloud Brightening
+• Shoot salt water high into the sky over
+the oceans, creating clouds that reflect
+sunlight and thus counter global
+warming
+• Adding particles, in this case sea salt, to
+the sky over the ocean would form
+large, long-lived clouds
+• Clouds appear when water forms
+around particles - adding more
+particles creates more, but smaller,
+droplets
+• A greater number of smaller drops has
+a greater surface area, so the clouds
+reflect a greater amount of light back
+into space
+
+@Solar Radiation Management (SRM)
+• Idea – block incoming solar radiation, leading to cooler planet
+• Method: Disperse sulfur aerosols into the stratosphere
+– Planetary-scale
+
+@Volcano Effect
+• When volcanoes erupt, they release
+particles of dust and ash, sulfur
+dioxide, and greenhouse gases into
+the atmosphere
+• These particles shade sunlight
+  ->temporary cooling
+• Sulfur dioxide is much more
+effective than ash particles at
+cooling the climate
+• Sulfur dioxide moves into the
+stratosphere and combines with
+water to form sulfuric acid aerosols
+• Sulfuric acid makes a haze of tiny
+droplets that reflects incoming solar
+radiation -> cooling
+
+@Carbon Capture & Storage (CCS)
+• Capture carbon dioxide (CO 2 ) emissions and store them so that
+they are unable to enter the atmosphere
+• Possible locations for storing carbon: former gas and oil fields,
+deep saline formations or depleting oil fields
+• Once injected into the rock, the CO 2 will move up through the
+microscopic pores within the rock where it will become
+indefinitely trapped within the formation
+
+@Ocean Fertilization
+• Iron fertilization is the intentional
+introduction of iron to the
+upper ocean to stimulate a
+phytoplankton bloom
+• This is intended to enhance
+biological productivity, which can
+benefit the marine food chain in
+hopes of increasing carbon dioxide
+removal from the atmosphere
+
+Space Mirrors
+• Reflect sunlight back into space -> cooling
+
+ Transects
+@Transect
+• a straight line or narrow section across the earth's surface, along
+which observations are made or measurements taken.
+
+@What is the purpose?
+• Gather spatially explicit data about a given location
+• Measure distance and occurrence of some object or phenomenon
+• Understand the presence or distributions of species or the lack
+thereof
+• Assess the condition of a species across space
+
+@Types of transects
+• Line transect – single line along which you gather data
+• Belt transects – Area between two lines from which you gather data
+
+@Background:
+• The central Quad of CSULB is intersected by a
+number of paved concrete paths.
+• These paths are used primarily for pedestrian
+traffic, though they are accessed by cars & utility
+vehicles too.
+• Between these concrete paths are swaths of
+grass.
+
+ Quadrats
+@Quadrat
+• each of a number of small areas of habitat, typically of one square
+meter, selected at random to act as samples for assessing the local
+distribution of plants or animals.
+
+@What is the purpose?
+• Limit the field of study to a manageable, standardized unit (1m, .5m)
+• Gather population estimates for large areas or large populations
+• Compare density and frequency of species across space & time
+• Estimate the percent of vegetation coverage and assess biomass
+
+@Types of Quadrats
+• The size of the quadrat is determined by the object of study
+• Quadrats can be adapted to fit the needs of the experiment
+• Circular quadrats, triangular quadrats etc.
+
+@CRISIS IN THE QUAD!
+• The central Quad of CSULB is being overtaken by
+2 species of very fast growing conifers!
+• Facilities management has tasked you with
+estimating the amount of each species present in
+the field.
+• Facilities management also wants to know what
+relationship conifer establishment has to the
+percent vegetation coverage of the grass.
+
+ Document Content Analysis
+@What is Document Content Analysis?
+• Research method where existing documents and reports are the
+sources of data
+• Gather and evaluate information from documents
+• Includes: reports, laws, public policies, government publications, media
+articles, private papers (ex. journals, letters), emails, meeting minutes
+• The research interprets and analyzes the data extracted from the
+documents
+
+Limitations/ Drawbacks
+• Requires a lot of reading (often have to read and re-read a
+document)
+• Some documents may contain bias or untrue information
+• Researcher interpretation of qualitative (textual) data is
+subjective and can be vulnerable to bias
+• Difficult to stay organized when many documents are involved
+
+============================================================================
+Articles & Book Chapters Post Midterm:
+1. Robbins, Paul. 2007. Lawn People (Chapter 1).
+2. Lichtveld, Maureen. 2018. Disasters Through the Lens of Disparities: Elevate Community
+Resilience as an Essential Public Health Service
+3. Orlins, Sabrina & Guan, Dabo. 2016. China's toxic informal e-waste recycling: Local approaches
+to a global environmental problem. 
+4. Khafagy, Amir. 2018. Gentrifying the Los Angeles River. Jacobin.
+5. Wolch, J., Byrne, J., & Newell, J. 2014. Urban Green Space, Public Health, and Environmental
+Justice: The Challenge of Making Cities ‘Just Green Enough’
+6. Parker, Laura. 2018. Planet or Plastic? National Geographic.
+7. Green New Deal Resolution. 2019; Alexandria Ocasio-Cortez, Sponsor.
+8. The Intergovernmental Panel on Climate Change: Global Warming of 1.5 oC. Executive Summary.
+2018.
+9. Berry, Wendell. The Unsettling of America: Culture & Agriculture (Chapter 2 & 3)
+
+============================================================================
+Agrodiversity vs. monoculture (in relation to lawns)
+Chemical inputs are necessary when lawns are
+monoculture (a single cultivated species)
+– Agrodiversity can help replenish nutrients or fill in the
+gaps if one species does not thrive
+-----------------------------------------------------
+Influences on residential lawn care practices (ex. irrigation and chemicals)
+
+-----------------------------------------------------
+Risk, Natural Disasters, Vulnerability etc
+
+-----------------------------------------------------
+Mitigating Natural Disasters
+
+-----------------------------------------------------
+Community Resilience & Natural Disasters
+
+-----------------------------------------------------
+The life cycle of electronics & e-waste
+
+-----------------------------------------------------
+E-waste and injustice
+
+-----------------------------------------------------
+E-waste and capitalism
+
+-----------------------------------------------------
+Urbanization and Injustice (Jacob Riis, Richard Hugo, Skid Row)
+
+-----------------------------------------------------
+Gentrifying the LA River
+
+-----------------------------------------------------
+The conflict between urban greenspace, gentrification, and displacement
+
+-----------------------------------------------------
+The ecosystem services and benefits provided by greenspace
+
+-----------------------------------------------------
+Environmental Policy
+
+-----------------------------------------------------
+Relationship between journalism, media, and environmental action
+
+-----------------------------------------------------
+The influence of money in politics (fossil fuel subsidies & campaign 
+contributions)
+
+
+-----------------------------------------------------
+Climate change
+
+-----------------------------------------------------
+History of plastic and throw away living (consumerism)
+
+-----------------------------------------------------
+Plastic & global pollution
+
+-----------------------------------------------------
+Oceanic garbage patches & marine impacts
+
+-----------------------------------------------------
+Waterway degradation, riparian corridors, and watersheds
+
+-----------------------------------------------------
+Who is responsible for plastic pollution?
+
+-----------------------------------------------------
+Relationship between society and agriculture
+
+-----------------------------------------------------
+Specialization & social responsibility
+
+-----------------------------------------------------
+Geoengineering (broadly)
+
+-----------------------------------------------------
