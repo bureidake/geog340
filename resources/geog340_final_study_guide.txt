@@ -490,6 +490,7 @@ to do.”
 • Societal solutions
 
  Agriculture
+
  Geoengineering
 @Definition: The deliberate large-scale manipulation of
 an environmental process that affects the earth's
@@ -658,6 +659,7 @@ Justice: The Challenge of Making Cities ‘Just Green Enough’
 
 ============================================================================
 Agrodiversity vs. monoculture (in relation to lawns)
+
 Chemical inputs are necessary when lawns are
 monoculture (a single cultivated species)
 – Agrodiversity can help replenish nutrients or fill in the
@@ -665,72 +667,183 @@ gaps if one species does not thrive
 -----------------------------------------------------
 Influences on residential lawn care practices (ex. irrigation and chemicals)
 
+•What Influences Lawn Decisions? Well-maintained lawns are a sign of status, responsibility,
+and good citizenship
+•People keep good lawns for the social benefits – they do not want to let their neighbors down
+– But doesn’t using chemicals that are harmful to humans, pets, and the environment hurt neighbors?
 -----------------------------------------------------
 Risk, Natural Disasters, Vulnerability etc
+
+• Hazard – a thing, a condition, or a process that threatens individuals and society in terms of production (making a living) or reproduction (being alive)
+• Risk – the known ( or estimated) probability that a hazard-related decision will have a negative consequence
+• Vulnerability = the capacity to be harmed, based on exposure to a hazard and sensitivity level
+• Adaptation = Actions taken to adjust to risks or hazards to lessen the impact
+• Maladaptation= potential for adaptation measures to unexpectedly/inadvertently increase vulnerability
+• Adaptive Capacity = the ability of a group to prepare for risks and cope with hazards when they do occur
+
 
 -----------------------------------------------------
 Mitigating Natural Disasters
 
+In order to understand risk and the natural hazards, we also need to understand the social and political systems that govern peoples lives
+
 -----------------------------------------------------
 Community Resilience & Natural Disasters
+(Guess) risk management
 
 -----------------------------------------------------
 The life cycle of electronics & e-waste
+Households -> Street Collecters -> e-waste dealers ->dismantlers, raw mats, sorters, OR resellers of 2nd hand boys (some return to the dismanterlers and etc.) -> formal/imformal recycling facilities  -> smelters refinery -> land fill or incineration.
 
 -----------------------------------------------------
 E-waste and injustice
+“Only 25% of all e-waste is accounted for and recycled safely by official means, the remaining 75% is lost in the illegal e-waste stream” (Orlins et al, 71)
+• Why is it difficult to regulate the informal E-Waste market?
+• Why do people choose to work in the dangerous E-Waste informal sector?
 
 -----------------------------------------------------
 E-waste and capitalism
+• Why do E-Waste workers not want more regulations?
+• What do you think China and other countries should do to improve the working conditions of E-Waste workers? And help make E-Waste less harmful to the environment?
+
 
 -----------------------------------------------------
 Urbanization and Injustice (Jacob Riis, Richard Hugo, Skid Row)
 
+Urbanization - 
+• Population growth is lower
+• Infant mortality is lower
+• Education is higher
+• Water is more accessible
+• Sanitation is improved
+• More people have access to electricity
+
+Urban penalty - people died faster in cities
+• No longer true, but what could cause this to emerge again?
+ 
+
+Jacob Riis
+How the other half lives
+Richard Hugo- poem shit
+Skid row - “Rats are likely contributing to a typhus outbreak on Los Angeles' skid row, experts say, prompting the city and county to take steps to reduce the spread of diseases.” - Mark Ralston / AFP - Getty Images fil
+ 
+
 -----------------------------------------------------
 Gentrifying the LA River
+
+“Gentrifying the LA River” Article Discussion
+1. Is the LA River Revitalization plan “a Trojan horse for gentrification?”
+2. Why is the LA River Revitalization an environmental justice issue?
+3. Why does Khafagy describe the LA River as a symbol of economic divide and social marginalization?
+1. Do you agree/disagree that the river could become an engine of prosperity? An urban oasis?
 
 -----------------------------------------------------
 The conflict between urban greenspace, gentrification, and displacement
 
+When cities and towns are constructed, the natural landscape is dramatically altered:
+• Vegetation and soil are replaced with hard, impervious surfaces and buildings
+• Buildings and dark pavement materials absorb heat, leading to the Urban Heat Island effect
+• Evaporation decreases in urban areas, due to reduced vegetation cover
+• Flooding increases, because of changes to urban hydrology from paved surfaces and roof tops
+• This leads to the development of unique urban climates that are quite different from those of surrounding natural environments
+• Common results: increased air pollution, modified rainfall patterns, and higher air temperatures
+
+Urban Green Commons? Privatization? Egalitarian?
+
 -----------------------------------------------------
 The ecosystem services and benefits provided by greenspace
+
+Is Green Infrastructure a Solution?
+• An approach to water management that protects, restores, or mimics the natural water cycle
+• Increases water capture and infiltration to recharge groundwater
+• Decreases urban heat island by increasing evapotranspiration (vegetation)
+• Filters pollution
+• Can be applied at multiple scales, from the home/building to the street-level to the neighborhood to the entire city
+
+
 
 -----------------------------------------------------
 Environmental Policy
 
+...
+
+
 -----------------------------------------------------
 Relationship between journalism, media, and environmental action
+
+The role of journalism/media – objectively report the reality of events & subjectively contextualize that reality within a larger framework.
 
 -----------------------------------------------------
 The influence of money in politics (fossil fuel subsidies & campaign 
 contributions)
 
+-Price of the environment for a healthy economy
+-$500 Billion globally on pre-tax oil subsidies
 
 -----------------------------------------------------
 Climate change
 
+... (check environmental policy)
+
 -----------------------------------------------------
 History of plastic and throw away living (consumerism)
+1945 - World War II ends 
+1955 - “Throwaway Living”
+..
+2018 Coca-Cola produces 128 Billion bottles
+- Net profit: $8.2 Billion
+
 
 -----------------------------------------------------
 Plastic & global pollution
 
+Where is it coming from?
+Point Source Pollution - conveyance from discrete
+discernible, confined and (Ex: Pipe dumping oil into a waterway)
+which pollutants are or may be discharged
+Nonpoint Source - any source of water pollution that source does not meet the legal definition of "point source" (oil runoff from pavement that enters a waterway).
+
+What difference does it make?     
+
+
 -----------------------------------------------------
 Oceanic garbage patches & marine impacts
+
+No: Solid island of Yes:
+trash with some larger objects
 
 -----------------------------------------------------
 Waterway degradation, riparian corridors, and watersheds
 
+• Riparian Corridor - Typically vegetated area of floodplain near a given waterway.
+• Turbidity - a measure of the degree to which the water loses its transparency due to the presence of suspended particulates.
+• Eutrophication - 
+excessive richness of nutrients in a lake or other body of water, frequently due to runoff from the land, which causes a dense growth of plant life and death of animal life from lack of oxygen.
+
+
 -----------------------------------------------------
 Who is responsible for plastic pollution?
+“In 2010, half the world’s mismanaged plastic waste
+generated by just five Asian countries: China,
+Indonesia, the Philippines, Vietnam, and Sri Lanka.”
+
+Largest Ethylene producers: United States – 31,166.8 Thousand tons Saudi Arabia – 13,392.2 Thousand tons
+Ethylene - the building block of polyethylene, one of the most widely used plastics.
 
 -----------------------------------------------------
 Relationship between society and agriculture
+..
+
 
 -----------------------------------------------------
 Specialization & social responsibility
+..
+
 
 -----------------------------------------------------
 Geoengineering (broadly)
+
+Definition: The deliberate large-scale manipulation of an environmental process that affects the earth's climate, in an attempt to counteract the effects of global warming.
+– Use technology to manipulate the environment
 
 -----------------------------------------------------
